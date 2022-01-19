@@ -29,8 +29,7 @@ A simple Telegram userbot based on Telethon .
 
 ## How to deploy Deadly
 ### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deadly-fighters
-  - )
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deadly-fighters)
   
 ## Support
 
